@@ -1,5 +1,6 @@
-Flask
-Werkzeug
-qrcode
-Pillow
-pyzbar
+Flask==2.3.3
+werkzeug==2.3.3
+qrcode==7.4.2
+pyzbar==0.1.9
+Pillow==10.0.1
+uuid==1.30
